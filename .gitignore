@@ -1,0 +1,19 @@
+node_modules/
+dist/
+build/
+out/
+.next/
+*.tsbuildinfo
+
+# secrets — never commit
+.env
+.env.local
+.env.*.local
+*.key
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+.turbo/

@@ -1,0 +1,12 @@
+{
+  "name": "agent-commerce",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Turn an AI agent into an Arcorapay merchant: core libraries, an MCP server, and a one-command CLI to sell from a catalog and invoice in USDC (payable cross-chain).",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "pnpm -r run build",
+    "test": "pnpm -r run test"
+  }
+}

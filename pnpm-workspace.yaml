@@ -1,0 +1,7 @@
+packages:
+  - "packages/*"
+
+# esbuild (pulled in by tsup) ships a native binary built via a postinstall
+# script; pre-approve it so `pnpm install` does not prompt.
+onlyBuiltDependencies:
+  - esbuild
