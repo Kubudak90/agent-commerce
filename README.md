@@ -84,6 +84,11 @@ your agent ◀── get_checkout_status ──────────── me
 - `refund_invoice` can only return funds to the original payer of a paid invoice within
   the on‑chain refund window — it cannot redirect funds to an arbitrary address.
 
+## Documentation
+
+- **Litepaper** — [English](docs/LITEPAPER.md) · [Türkçe](docs/LITEPAPER.tr.md): what it is, how payments flow, why USDC/Arc/CCTP, the trust & security model.
+- **Roadmap** — [English](docs/ROADMAP.md) · [Türkçe](docs/ROADMAP.tr.md): what's done and what's next (mainnet, sponsored gas, more chains).
+
 ## License
 
 MIT
