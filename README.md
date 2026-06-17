@@ -1,5 +1,9 @@
 # Agent Commerce
 
+[![CI](https://github.com/Kubudak90/agent-commerce/actions/workflows/ci.yml/badge.svg)](https://github.com/Kubudak90/agent-commerce/actions/workflows/ci.yml)
+[![npm](https://img.shields.io/npm/v/@arcora/agent-commerce.svg)](https://www.npmjs.com/package/@arcora/agent-commerce)
+[![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Turn an AI agent into an [Arcorapay](https://arcorapay.xyz) **merchant**. Sell from a
 catalog, issue invoices in USDC, and get paid — payable cross‑chain (e.g. from Base,
 bridged to Arc via Circle CCTP). Ships as a one‑command CLI plus an
