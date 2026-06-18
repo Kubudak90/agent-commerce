@@ -1,6 +1,6 @@
 {
   "name": "@arcora/agent-commerce",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "One command to turn an AI agent into an Arcorapay merchant, plus an MCP server it serves — sell from a catalog and invoice in USDC, payable cross-chain from Base.",
   "license": "MIT",
   "repository": { "type": "git", "url": "git+https://github.com/Kubudak90/agent-commerce.git", "directory": "packages/agent-commerce-cli" },
